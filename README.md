@@ -14,6 +14,10 @@ pnpm dev
 bun dev
 ```
 
+Create the following .env file:
+API_KEY="cngusb9r01qhlsli9h90cngusb9r01qhlsli9h9g"
+
+
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
